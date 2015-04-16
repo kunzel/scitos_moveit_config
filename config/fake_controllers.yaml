@@ -1,0 +1,8 @@
+controller_list:
+  - name: fake_ptu_controller
+    joints:
+      - pan
+      - tilt
+  - name: fake_camera_controller
+    joints:
+      []
