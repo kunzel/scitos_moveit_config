@@ -3,6 +3,3 @@ controller_list:
     joints:
       - pan
       - tilt
-  - name: fake_camera_controller
-    joints:
-      []

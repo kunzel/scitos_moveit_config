@@ -5,4 +5,4 @@ moveit_setup_assistant_config:
   SRDF:
     relative_path: config/scitosA5.srdf
   CONFIG:
-    generated_timestamp: 1408017400
+    generated_timestamp: 1429884607
